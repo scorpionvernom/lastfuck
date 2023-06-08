@@ -1,2 +1,0 @@
-# lastfuck
-website
